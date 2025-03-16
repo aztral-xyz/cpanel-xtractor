@@ -1,2 +1,1 @@
-@@ -0,0 +1 @@
- # CPANEL XTRACTOR
+# CPANEL XTRACTOR
